@@ -1,0 +1,14 @@
+{
+    "cadastro":[
+    {
+        "id":1,
+        "name":"",
+        "email":"",
+        "tel":"",
+        "escolariade":["ensino medio completo","ensino medio incompleto","Superior Completo","Superior Incompleto", "Doutorado", "mestrado"],
+        "curso":"",
+        "login":"",
+        "senha":""
+
+    }]
+}
